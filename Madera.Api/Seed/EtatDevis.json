@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "label": "Brouillon"
+  },
+  {
+    "id": 2,
+    "label": "Accepté"
+  },
+  {
+    "id": 3,
+    "label": "En attente"
+  },
+  {
+    "id": 4,
+    "label": "Refusé"
+  },
+  {
+    "id": 5,
+    "label": "En commande"
+  },
+  {
+    "id": 6,
+    "label": "Transfert en facturation"
+  }
+]

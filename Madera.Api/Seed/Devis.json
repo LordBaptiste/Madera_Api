@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "reference": "D1",
+    "prix": 51600.0,
+    "idProjet": 1,
+    "idEtatDevis": 4,
+    "datecreation": "2017-01-14T00:00:00"
+  },
+  {
+    "id": 2,
+    "reference": "D2",
+    "prix": 62300.0,
+    "idProjet": 1,
+    "idEtatDevis": 3,
+    "datecreation": "2017-02-05T00:00:00"
+  },
+  {
+    "id": 3,
+    "reference": "D3",
+    "prix": 88700.0,
+    "idProjet": 2,
+    "idEtatDevis": 1,
+    "datecreation": "2017-06-23T00:00:00"
+  },
+  {
+    "id": 5,
+    "reference": "D5",
+    "prix": 92500.0,
+    "idProjet": 2,
+    "idEtatDevis": 1,
+    "datecreation": "2017-06-23T00:00:00"
+  },
+  {
+    "id": 4,
+    "reference": "D4",
+    "prix": 77000.0,
+    "idProjet": 3,
+    "idEtatDevis": 6,
+    "datecreation": "2017-10-10T00:00:00"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nom": "Leroy",
+    "prenom": "Bertrand",
+    "adresse": "61, rue Beauvau",
+    "ville": "MARSEILLE",
+    "telephone": "0451236852",
+    "codepostal": "13005"
+  },
+  {
+    "id": 2,
+    "nom": "Aubine",
+    "prenom": "Thibault",
+    "adresse": "75, rue Sébastopol",
+    "ville": "SAINTE-MARIE",
+    "telephone": "0632178541",
+    "codepostal": "97230"
+  },
+  {
+    "id": 3,
+    "nom": "de Brisay",
+    "prenom": "Harriette",
+    "adresse": "93, Cours Marechal-Joffre",
+    "ville": "DIEPPE",
+    "telephone": "0231458237",
+    "codepostal": "76200"
+  }
+]

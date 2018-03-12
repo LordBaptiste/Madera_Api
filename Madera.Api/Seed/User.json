@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "mail": "geralt.deriv@gmail.com",
+    "password": "loupblanc",
+    "idFonctionUtilisateur": 1,
+    "nom": "Deriv",
+    "prenom": "Geralt"
+  },
+  {
+    "id": 2,
+    "mail": "john.galt@gmail.com",
+    "password": "dollar",
+    "idFonctionUtilisateur": 1,
+    "nom": "Galt",
+    "prenom": "John"
+  },
+  {
+    "id": 3,
+    "mail": "shepard@gmail.com",
+    "password": "citadelle",
+    "idFonctionUtilisateur": 2,
+    "nom": "Shepard",
+    "prenom": "Alan"
+  }
+]

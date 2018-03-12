@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "reference": "P1",
+    "idClient": 1,
+    "idUtilisateur": 1,
+    "commentaire": "maison plein pied pour Mr Leroy qui se déplace en fauteuil roulant.",
+    "datecreation": "2017-01-14T00:00:00"
+  },
+  {
+    "id": 2,
+    "reference": "P2",
+    "idClient": 2,
+    "idUtilisateur": 1,
+    "commentaire": "prévoir pour une future extension terasse couverte.",
+    "datecreation": "2017-06-23T00:00:00"
+  },
+  {
+    "id": 3,
+    "reference": "P3",
+    "idClient": 3,
+    "idUtilisateur": 2,
+    "commentaire": "souhaite beaucoup d'ouverture, maison lumineuse",
+    "datecreation": "2017-10-10T00:00:00"
+  }
+]
